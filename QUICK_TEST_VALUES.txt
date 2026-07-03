@@ -1,0 +1,18 @@
+Use these fields to test the tool:
+
+Page URL:
+https://example.com/
+
+Target Keyword:
+example domain
+
+Business Name:
+Example
+
+Primary City:
+New York
+
+Page Type:
+Homepage
+
+For real SEO work, replace these with your client page URL, target keyword, business name, and city.

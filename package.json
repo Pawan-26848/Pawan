@@ -1,0 +1,28 @@
+{
+  "name": "seo-aeo-geo-live-checker",
+  "version": "1.0.0",
+  "description": "Live URL-based SEO, AEO, GEO, Local SEO, Schema, and Technical audit checker.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "seo",
+    "aeo",
+    "geo",
+    "ai visibility",
+    "schema checker",
+    "local seo"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "cheerio": "^1.0.0",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "helmet": "^8.0.0",
+    "robots-parser": "^3.0.1"
+  }
+}

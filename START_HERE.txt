@@ -1,0 +1,17 @@
+SEO AEO GEO Live Checker - Fixed URL Fetch Version
+
+How to use:
+1. Extract this ZIP.
+2. Double-click START_WINDOWS.bat.
+3. Open http://localhost:3000 if it does not open automatically.
+4. Paste a full page URL or even just the domain/page path.
+   Examples:
+   https://example.com/
+   example.com
+   example.com/service-page/
+5. Click Audit Page.
+
+Important:
+- Keep the black terminal window open while using the tool.
+- First run needs internet because it installs Node packages.
+- Some websites block crawlers or Cloudflare-protect pages. Those URLs may still fail unless the tool is upgraded to a headless-browser crawler.
